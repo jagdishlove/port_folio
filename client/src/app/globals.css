@@ -1,0 +1,25 @@
+:root {
+    --bg: #1a1a1a;
+    --copy: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: "neue haas Grotesk Display Pro";
+    background-color: #000;
+    color: var(--copy)
+}
+
+nav {
+    width: 100vw;
+    background: red;
+    top: 0;
+    left: 0;
+    padding: 1.75em
+}
